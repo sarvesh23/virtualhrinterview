@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59dde1a5-aa27-4ceb-af2c-6a73e8d22b0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/virtualhrinterview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/virtualhrinterview.iml" afterDir="false" />
-    </list>
+    <list default="true" id="59dde1a5-aa27-4ceb-af2c-6a73e8d22b0d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -73,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579504675580</updated>
       <workItem from="1579504680951" duration="662000" />
+      <workItem from="1579505508935" duration="360000" />
     </task>
     <servers />
   </component>
